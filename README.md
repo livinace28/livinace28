@@ -139,5 +139,5 @@ Percentage: 73.34%
 <p align="center">
   <a href="mailto:yogesh.286.bhosale@gmail.com"><img src="https://img.shields.io/badge/Email-yogesh.286.bhosale%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="tel:+918237960086"><img src="https://img.shields.io/badge/Phone-%2B91%208237960086-green?style=for-the-badge&logo=whatsapp"></a>
-  <a href="https://www.linkedin.com/in/yogesh-bhosale"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/yogesh-bhosale-patil/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
