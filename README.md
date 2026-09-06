@@ -1,7 +1,7 @@
 <!-- Profile README.md -->
 
 <h1 align="center">⚡ Yogesh Jalindar Bhosale ⚡</h1>
-<h3 align="center">🌌 Site Reliability Engineer | DevOps Specialist | Cloud Enthusiast</h3>
+<h3 align="center">🌌 Site Resilience Engineer | Cloud Engineer | DevOps Engineer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-Site Reliability Engineer with <span style="color:#39ff14;">4 years of industry experience</span> ensuring <span style="color:#00ffff;">reliability, scalability, and performance</span> of enterprise systems.  
+Senior Cloud Engineer with <span style="color:#39ff14;">4.5 years of industry experience</span> ensuring <span style="color:#00ffff;">reliability, scalability, and performance</span> of enterprise systems.  
 Specialized in <span style="color:#ff00ff;">AWS, Azure, CI/CD automation, Terraform, Kubernetes, Docker</span>.  
 Skilled in <span style="color:#ffd700;">monitoring/observability (Prometheus, Grafana, New Relic)</span> and <span style="color:#ff4500;">DevSecOps pipeline integration</span>.  
 Strong background in <span style="color:#00ffff;">Azure Data Engineering (ADF, Databricks, Synapse, Power BI)</span>.  
