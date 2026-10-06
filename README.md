@@ -28,10 +28,10 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                     CLOUD ENGINEER                           ║
 ║                                                              ║
-║   ☁️ Cloud Infrastructure       ⚙️ Automation                ║
-║   ☸️ Kubernetes                 🏗️ Infrastructure as Code    ║
-║   🔭 Observability              🛡️ Site Resilience           ║
-║   📊 Data Engineering           🚨 Incident Response          ║
+║   ☁️ Cloud Infrastructure       ⚙️ Automation               ║
+║   ☸️ Kubernetes                 🏗️ Infrastructure as Code   ║
+║   🔭 Observability              🛡️ Site Resilience          ║
+║   📊 Data Engineering           🚨 Incident Response        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
