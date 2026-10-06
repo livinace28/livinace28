@@ -37,7 +37,7 @@
 
 </div>
 
-Senior Cloud Engineer with **~5 years of IT experience**, focused on building and operating reliable, scalable and automated technology platforms.
+Senior Cloud Engineer with **5 years of IT experience**, focused on building and operating reliable, scalable and automated technology platforms.
 
 My engineering journey spans **Azure, AWS, Infrastructure as Code, Kubernetes, CI/CD, observability, data engineering and site resilience**.
 
@@ -115,22 +115,6 @@ I enjoy understanding systems end-to-end — from infrastructure and networking 
 </p>
 
 ---
-
-# 🚀 Featured Engineering Projects
-
-<div align="center">
-
-<a href="https://github.com/livinace28">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=livinace28&repo=kubernetes-labs&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/livinace28">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=livinace28&repo=terraform-cloud-infrastructure&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> ⚠️ **Replace the repository names above with your actual repository names if these repositories don't exist.**
 
 ### ☸️ Kubernetes Engineering Labs
 
@@ -301,16 +285,6 @@ Azure Data Factory
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=livinace28&theme=tokyonight&hide_border=true&background=0D1117&ring=00FFFF&fire=FF00FF&currStreakLabel=00FFFF" />
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=livinace28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 
 </p>
 
